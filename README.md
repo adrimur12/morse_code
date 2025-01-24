@@ -3,14 +3,6 @@
 
 Morse code is a method of encoding text characters using a series of dots (•), dashes (—), and spaces. It was developed in the early 19th century by Samuel Morse and Alfred Vail as a way to transmit information via telegraph systems.
 
-
-### Prerequisites
-- `Python 3`
-
-### How to run the script
-Execute : 
-> python main.py
-
 **Basic Elements**:
 * Dot (•): A short signal, typically lasting for one unit of time.
 * Dash (—): A longer signal, typically lasting for three units of time.
@@ -57,3 +49,10 @@ Execute :
 * 8: — — — • •
 * 9: — — — — •
 * 0: — — — — —
+
+### Prerequisites
+- `Python 3`
+
+### How to run the script
+Execute : 
+> python main.py
