@@ -1,4 +1,4 @@
-![python](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fpython-logo-2%2F&psig=AOvVaw3OlQmWw0nkUbJ9lGyf5Z4g&ust=1737807407233000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDQ4pyrjosDFQAAAAAdAAAAABAK)
+![python](./python-3-logo-png-transparent.png)
 # Simple Morse Code Translator In Python
 
 Morse code is a method of encoding text characters using a series of dots (•), dashes (—), and spaces. It was developed in the early 19th century by Samuel Morse and Alfred Vail as a way to transmit information via telegraph systems.
